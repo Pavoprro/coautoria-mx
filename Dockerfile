@@ -9,6 +9,8 @@ RUN pip install --no-cache-dir mercury==2.3.7 networkx plotly pandas requests tq
 
 COPY . .
 
+RUN mkdir -p data/clean
+
 EXPOSE 7860
 
-CMD mercury run fase2_visualizaciones_mercury.ipynb --host 0.0.0.0 --port 7860
+CMD mercury run fase2_visualizaciones_mercury.ipynb 0.0.0.0:7860
