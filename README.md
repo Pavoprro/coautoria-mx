@@ -3,9 +3,8 @@ title: Coautoria MX
 emoji: 🔬
 colorFrom: blue
 colorTo: green
-sdk: gradio
-sdk_version: 3.50.2
-app_file: app.py
+sdk: docker
+app_port: 8888
 pinned: false
 ---
 
