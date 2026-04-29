@@ -1,0 +1,614 @@
+inst_source,inst_target,total_colabs,num_pares
+"National Institute of Astrophysics, Optics and Electronics",Universidad Nacional Autónoma de México,229,154
+Universidad Michoacana de San Nicolás de Hidalgo,Universidad Nacional Autónoma de México,151,121
+Universidad Nacional Autónoma de México,Universidad Politécnica de Pachuca,148,103
+"Secretaría de Investigación, Innovación y Educación Superior",Universidad Nacional Autónoma de México,148,62
+El Colegio de la Frontera Sur,Universidad Nacional Autónoma de México,122,65
+Universidad Nacional Autónoma de México,Universidad de Guadalajara,119,87
+Universidad Autónoma de Chiapas,Universidad Nacional Autónoma de México,116,81
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Universidad Nacional Autónoma de México,81,65
+Benemérita Universidad Autónoma de Puebla,Universidad Nacional Autónoma de México,79,48
+Universidad Autónoma del Estado de Hidalgo,Universidad Nacional Autónoma de México,77,47
+Centro Internacional de Mejoramiento de Maíz Y Trigo,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,58,54
+Instituto Politécnico Nacional,Universidad Nacional Autónoma de México,56,39
+El Colegio de la Frontera Sur,"Secretaría de Investigación, Innovación y Educación Superior",53,23
+"National Institute of Astrophysics, Optics and Electronics",Universidad Politécnica de Pachuca,48,33
+"National Institute of Astrophysics, Optics and Electronics",Universidad Michoacana de San Nicolás de Hidalgo,48,38
+"National Institute of Astrophysics, Optics and Electronics",Universidad de Guadalajara,37,27
+"National Institute of Astrophysics, Optics and Electronics",Universidad Autónoma de Chiapas,36,26
+Universidad Michoacana de San Nicolás de Hidalgo,Universidad Politécnica de Pachuca,32,26
+Centro de Investigación Científica y de Educación Superior de Ensenada,Universidad Nacional Autónoma de México,31,31
+Mexican Social Security Institute,National Institute of Genomic Medicine,30,30
+Tecnológico Nacional de México,Universidad Nacional Autónoma de México,30,30
+Instituto de Ecología,Universidad Nacional Autónoma de México,28,27
+"Universidad Autónoma de Zacatecas ""Francisco García Salinas""",Universidad Nacional Autónoma de México,27,26
+Universidad Autónoma de Chiapas,Universidad Michoacana de San Nicolás de Hidalgo,26,22
+Benemérita Universidad Autónoma de Puebla,"National Institute of Astrophysics, Optics and Electronics",24,14
+Universidad Autónoma Metropolitana,Universidad Nacional Autónoma de México,24,23
+Universidad Autónoma de Chiapas,Universidad Politécnica de Pachuca,24,18
+Universidad Michoacana de San Nicolás de Hidalgo,Universidad de Guadalajara,24,20
+Universidad Politécnica de Pachuca,Universidad de Guadalajara,24,18
+"National Institute of Astrophysics, Optics and Electronics",Universidad Autónoma del Estado de Hidalgo,24,14
+Instituto Nacional de Perinatología,Instituto Politécnico Nacional,23,19
+Autonomous University of Aguascalientes,Universidad Autónoma de Nuevo León,22,22
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Instituto Politécnico Nacional,21,13
+Centro Internacional de Mejoramiento de Maíz Y Trigo,Colegio de Postgraduados,21,16
+National Institute of Genomic Medicine,Universidad Nacional Autónoma de México,20,20
+Hospital Médica Sur,Institute of Ophthalmology,20,20
+Centro Internacional de Mejoramiento de Maíz Y Trigo,Universidad de Colima,20,14
+Universidad Nacional Autónoma de México,Universidad de Guanajuato,20,18
+Universidad Nacional Autónoma de México,Universidad Veracruzana,20,15
+Benemérita Universidad Autónoma de Puebla,Universidad Michoacana de San Nicolás de Hidalgo,19,15
+Instituto Nacional de Cardiología,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,19,19
+National Institute of Anthropology and History,Universidad Nacional Autónoma de México,19,19
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Instituto Nacional de Salud Pública,19,15
+Ibero American University,Instituto Politécnico Nacional,18,15
+Universidad Autónoma de Chiapas,Universidad de Guadalajara,18,14
+Centro de Investigación en Alimentación y Desarrollo,Universidad de Sonora,18,16
+Benemérita Universidad Autónoma de Puebla,Mexican Social Security Institute,18,18
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Instituto Nacional de Pediatria,18,18
+Tecnológico de Monterrey,Universidad Nacional Autónoma de México,17,17
+Instituto Politécnico Nacional,Universidad Autónoma del Estado de Hidalgo,17,15
+National Institute of Anthropology and History,National Institute of Genomic Medicine,17,9
+Universidad Autónoma del Estado de Hidalgo,Universidad Politécnica de Pachuca,16,10
+Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,Instituto Nacional de Salud Pública,16,16
+Universidad Autónoma del Estado de Hidalgo,Universidad Michoacana de San Nicolás de Hidalgo,16,12
+Mexican Social Security Institute,Universidad Nacional Autónoma de México,16,16
+Benemérita Universidad Autónoma de Puebla,Universidad Politécnica de Pachuca,16,10
+National Institute of Anthropology and History,"Universidad Autónoma de Zacatecas ""Francisco García Salinas""",15,15
+Institute for Scientific and Technological Research,Universidad Nacional Autónoma de México,15,15
+Instituto Nacional de Salud Pública,National Institute of Genomic Medicine,15,15
+Universidad Autónoma Agraria Antonio Narro,Universidad Autónoma del Estado de Hidalgo,15,8
+Universidad Autónoma del Carmen,Universidad Nacional Autónoma de México,15,15
+Instituto Nacional de Enfermedades Respiratorias,Universidad Internacional,14,14
+Benemérita Universidad Autónoma de Puebla,Universidad Autónoma de Chiapas,14,10
+Autonomous University of Queretaro,Universidad Nacional Autónoma de México,14,14
+Hospital General de México,Instituto Nacional de Perinatología,14,14
+Benemérita Universidad Autónoma de Puebla,Universidad Autónoma del Estado de Hidalgo,14,10
+Chapingo Autonomous University,Universidad Autónoma Metropolitana,14,12
+Instituto Nacional de Investigaciones Nucleares,Universidad Nacional Autónoma de México,14,12
+Instituto Nacional de Investigaciones Nucleares,Universidad de Guanajuato,14,10
+Instituto Tecnológico de Tijuana,Universidad Autónoma de Baja California,13,10
+Universidad Nacional Autónoma de México,Universidad de Ciencias y Artes de Chiapas,13,13
+Universidad Autónoma del Estado de México,Universidad Nacional Autónoma de México,13,10
+Tecnológico de Monterrey,Universidad Autónoma de Nuevo León,13,13
+Instituto Nacional de Salud Pública,National Institute of Statistics and Geography,12,12
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Instituto Nacional de Salud Pública,12,12
+Instituto Nacional de Pediatria,Universidad Nacional Autónoma de México,12,8
+Universidad Autónoma del Estado de Hidalgo,Universidad de Guadalajara,12,8
+Universidad Autónoma de Chiapas,Universidad Autónoma del Estado de Hidalgo,12,8
+Instituto Politécnico Nacional,"National Institute of Astrophysics, Optics and Electronics",12,7
+Benemérita Universidad Autónoma de Puebla,Universidad de Guadalajara,12,8
+Hospital General de México,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,11,11
+Tecnológico Nacional de México,Universidad Autónoma de Baja California,11,11
+Instituto Politécnico Nacional,Universidad Autónoma Metropolitana,11,11
+Instituto Politécnico Nacional,Tecnológico Nacional de México,11,11
+Centro de Investigación en Alimentación y Desarrollo,Institute for Scientific and Technological Research,10,10
+Center for Research and Advanced Studies of the National Polytechnic Institute,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,10,10
+Instituto Nacional de Cardiología,Universidad Nacional Autónoma de México,10,10
+Instituto Politécnico Nacional,Tecnológico de Monterrey,10,10
+Instituto Tecnológico de Ciudad Madero,Instituto Tecnológico de Querétaro,10,10
+Instituto Nacional de Cardiología,Universidad Autónoma Metropolitana,10,10
+Institute of Ophthalmology,Instituto Nacional de Neurología y Neurocirugía,10,10
+Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,Universidad Nacional Autónoma de México,10,10
+"Universidad Autónoma de Zacatecas ""Francisco García Salinas""",Universidad de Ciencias y Artes de Chiapas,10,10
+Tecnológico de Monterrey,Universidad Panamericana,10,10
+Universidad Autónoma de Baja California,Universidad de Guadalajara,10,10
+"Secretaría de Ciencia, Humanidades, Tecnología e Innovación","Universidad Autónoma de Zacatecas ""Francisco García Salinas""",9,9
+Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,Universidad Autónoma Agraria Antonio Narro,9,9
+Universidad Autónoma de Nuevo León,University of Monterrey,9,9
+Instituto Nacional de Salud Pública,Universidad Del Valle De Cuernavaca,9,9
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Universidad Autónoma de Guadalajara,9,8
+Centro de Investigación en Materiales Avanzados,Universidad Nacional Autónoma de México,9,9
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Mexican Social Security Institute,9,9
+Instituto Nacional de Pediatria,Universidad del Valle de México,9,5
+Instituto Nacional de Ecología y Cambio Climático,Universidad Nacional Autónoma de México,8,8
+Instituto Politécnico Nacional,Universidad Politécnica de Pachuca,8,5
+Center for Engineering and Industrial Development,Tecnológico de Monterrey,8,8
+Instituto Politécnico Nacional,Universidad Michoacana de San Nicolás de Hidalgo,8,6
+Universidad Autónoma de Baja California,Universidad Autónoma de Ciudad Juárez,8,8
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Instituto Politécnico Nacional,8,8
+Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,Universidad Del Valle De Cuernavaca,8,8
+Centro Médico Nacional La Raza,Hospital de Especialidades,8,8
+Universidad Autónoma del Estado de Morelos,Universidad de Guanajuato,8,8
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Universidad Autónoma del Estado de Hidalgo,8,8
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,National Institute of Genomic Medicine,8,8
+Centro de Investigación en Materiales Avanzados,Universidad Juárez Autónoma de Tabasco,8,8
+Universidad Autónoma del Estado de Morelos,Universidad Nacional Autónoma de México,8,8
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,National Institute of Genomic Medicine,8,8
+Hospital Civil de Guadalajara,Secretaría de Salud de Jalisco,8,8
+Benemérita Universidad Autónoma de Puebla,Instituto Politécnico Nacional,8,6
+National Commission for the Knowledge and Use of Biodiversity,Universidad Nacional Autónoma de México,8,8
+Instituto Mexicano de Oftalmología IAP,Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,8,8
+Instituto Mexicano de Oftalmología IAP,Instituto Nacional de Salud Pública,8,8
+Institute for Scientific and Technological Research,Universidad Autónoma de Coahuila,8,8
+Hospital Médica Sur,Instituto Nacional de Neurología y Neurocirugía,8,8
+Institute of Ophthalmology,Instituto Politécnico Nacional,7,7
+Universidad Juárez Autónoma de Tabasco,Universidad Nacional Autónoma de México,7,7
+Ensenada Institute of Technology,Universidad Nacional Autónoma de México,7,7
+Federal Government of Mexico,Tecnológico de Monterrey,7,7
+Secretaría de Salud de Jalisco,Universidad Nacional Autónoma de México,7,7
+Universidad Autónoma de Baja California,Universidad Autónoma del Estado de México,7,6
+Centro de Investigación en Alimentación y Desarrollo,Instituto Tecnologico de Veracruz,7,7
+Centro de Investigación Científica y de Educación Superior de Ensenada,Instituto Nacional de Perinatología,7,7
+Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,Universidad de Guadalajara,7,7
+Instituto Politécnico Nacional,Universidad Juárez Autónoma de Tabasco,7,7
+Instituto Politécnico Nacional,Universidad Veracruzana,7,7
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Universidad Tecnológica de Aguascalientes,7,5
+Autonomous University of Sinaloa,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,7,7
+Sonora Institute of Technology,Universidad de Sonora,7,7
+Instituto Nacional de Perinatología,Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,7,7
+Secretaria de Salud,Universidad Nacional Autónoma de México,6,6
+Instituto Politécnico Nacional,Universidad de Guadalajara,6,4
+Center for Scientific Research and Higher Education at Ensenada,Centro de Investigación en Alimentación y Desarrollo,6,6
+Hospital Médica Sur,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,6,6
+Instituto Nacional de Cancerología,Universidad Nacional Autónoma de México,6,6
+National Institute of Anthropology and History,Universidad de Ciencias y Artes de Chiapas,6,6
+Autonomous University of Queretaro,Instituto Politécnico Nacional,6,6
+Autonomous University of Queretaro,Universidad de Guanajuato,6,6
+Instituto Tecnológico de Culiacán,Tecnológico Nacional de México,6,6
+Autonomous University of Yucatán,Universidad Autónoma de Coahuila,6,6
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Tecnológico de Monterrey,6,6
+Secretaría de Salud de Jalisco,Universidad Autónoma de Nayarit,6,6
+Instituto Nacional de Salud Pública,Universidad Autónoma de Nuevo León,6,6
+Sonora Institute of Technology,Universidad Michoacana de San Nicolás de Hidalgo,6,6
+Cultura,Universidad Autónoma de Nayarit,6,6
+Universidad Autónoma Metropolitana,Universidad Veracruzana,6,3
+Instituto Nacional de Perinatología,Instituto Nacional de Salud Pública,6,6
+Instituto Nacional de Neurología y Neurocirugía,Universidad Veracruzana,6,3
+Chapingo Autonomous University,Colegio de Postgraduados,6,6
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad de Sonora,6,6
+Tecnológico Nacional de México,Tuxtla Gutierrez Institute of Technology,6,6
+Colegio de Postgraduados,Universidad de la Sierra Juárez,6,6
+Universidad Autónoma Agraria Antonio Narro,Universidad Autónoma de Nuevo León,6,6
+Instituto Politécnico Nacional,Universidad Autónoma de Chiapas,6,4
+Autonomous University of Chihuahua,Universidad Nacional Autónoma de México,6,6
+Instituto Politécnico Nacional,Instituto Tecnológico de Ciudad Madero,5,4
+Instituto Politécnico Nacional,Instituto de Ecología,5,3
+Universidad Autónoma de Sinaloa,Universidad Nacional Autónoma de México,5,4
+Autonomous University of Tamaulipas,Universidad Autónoma de Coahuila,5,5
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Instituto Politécnico Nacional,5,5
+Tecnológico de Monterrey,Universidad Autónoma de Coahuila,5,5
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad de Guadalajara,5,5
+Tecnológico de Monterrey,Universidad Autónoma de Baja California,5,5
+Instituto Nacional de Investigaciones Nucleares,Universidad Autónoma del Estado de Hidalgo,5,5
+Universidad de Colima,Universidad de Guadalajara,5,2
+Universidad Autónoma de Ciudad Juárez,Universidad Nacional Autónoma de México,5,5
+"National Institute of Astrophysics, Optics and Electronics",Universidad de las Américas Puebla,5,5
+Hospital Angeles Pedregal,Hospital General Dr. Manuel Gea Gonzalez,5,5
+Universidad Autónoma de Nuevo León,Universidad de Sonora,5,5
+Centro Universitario de Chihuahua,Hospital Médica Sur,5,5
+Institute of Ophthalmology,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,5,5
+Colegio de Postgraduados,Universidad de Guadalajara,5,5
+Instituto Nacional de Ecología y Cambio Climático,"Secretaría de Investigación, Innovación y Educación Superior",5,5
+Tecnológico de Monterrey,University of Monterrey,5,5
+Benemérita Universidad Autónoma de Puebla,Centro de Investigaciones Cientifícas de las Huastecas 'Aguazarca',5,5
+Universidad Autónoma de Coahuila,Universidad Juárez del Estado de Durango,5,5
+Centro de Investigación Científica y de Educación Superior de Ensenada,Universidad de Sonora,5,5
+Benemérita Universidad Autónoma de Puebla,Benito Juárez Autonomous University of Oaxaca,5,5
+Autonomous University of San Luis Potosí,Universidad Nacional Autónoma de México,5,5
+Autonomous University of San Luis Potosí,"Universidad Autónoma de Zacatecas ""Francisco García Salinas""",5,5
+Autonomous University of San Luis Potosí,Centro de Investigación en Materiales Avanzados,5,5
+Instituto Politécnico Nacional,Mexican Social Security Institute,5,5
+Centro de Investigación en Materiales Avanzados,Instituto Tecnológico de Ciudad Madero,5,5
+Centro de Innovación Aplicada en Tecnologías Competitivas,Universidad de Guanajuato,5,4
+Autonomous University of Chihuahua,Hospital Médica Sur,5,5
+Mexican Institute of Petroleum,Universidad Autónoma Agraria Antonio Narro,5,5
+Instituto Politécnico Nacional,Instituto Tecnologico de Veracruz,4,4
+Autonomous University of Sinaloa,Instituto Politécnico Nacional,4,4
+Universidad Nacional Autónoma de México,Universidad de Colima,4,4
+Autonomous University of Chihuahua,Autonomous University of Tamaulipas,4,4
+Centro Internacional de Mejoramiento de Maíz Y Trigo,Chapingo Autonomous University,4,4
+Autonomous University of Chihuahua,Universidad Autónoma de Coahuila,4,4
+Autonomous University of Tlaxcala,Benemérita Universidad Autónoma de Puebla,4,4
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,National Institute of Anthropology and History,4,4
+Tecnológico de Monterrey,Universidad Popular Autónoma del Estado de Puebla,4,4
+Instituto Nacional de Enfermedades Respiratorias,Instituto Politécnico Nacional,4,4
+Tecnológico Nacional de México,Tecnológico de Monterrey,4,4
+Centro de Investigación en Materiales Avanzados,Durango Institute of Technology,4,4
+Centro de Investigación en Alimentación y Desarrollo,University of Navojoa,4,4
+Centro de Investigación en Materiales Avanzados,Tecnológico de Monterrey,4,4
+Universidad Autónoma de Baja California,Universidad Autónoma de Occidente,4,4
+Universidad Autónoma de Baja California,Universidad Nacional Autónoma de México,4,4
+Autonomous University of Yucatán,Instituto de Ecología,4,4
+Instituto Tecnológico Superior de Xalapa,Universidad Autónoma de Baja California,4,4
+El Colegio de Sonora,Universidad de Sonora,4,4
+Instituto de Ecología,Universidad de Xalapa,4,4
+Hospital Infantil de México Federico Gómez,Instituto Nacional de Pediatria,4,4
+Universidad Autónoma del Estado de México,Universidad de Sonora,4,4
+Centro Internacional de Mejoramiento de Maíz Y Trigo,Mathematics Research Center,4,4
+Instituto Tecnológico de Toluca,Universidad Autónoma del Estado de México,4,4
+Instituto Tecnológico y de Estudios Superiores de Occidente,Universidad Juárez Autónoma de Tabasco,4,4
+Universidad Autónoma de Guerrero,Universidad de Cuautitlán Izcalli,4,4
+Universidad Autónoma de Coahuila,Universidad de Guanajuato,4,4
+"National Institute of Astrophysics, Optics and Electronics",Universidad Autónoma de Baja California,4,4
+National Institute of Anthropology and History,Universidad de Guadalajara,4,4
+Instituto Tecnológico de Tijuana,Universidad Autónoma de Ciudad Juárez,4,4
+National Institute of Anthropology and History,Universidad Autónoma Metropolitana,4,4
+Centro de Investigación en Alimentación y Desarrollo,Universidad Autónoma de Ciudad Juárez,4,4
+Centro de Investigación en Alimentación y Desarrollo,Tecnológico de Monterrey,4,4
+Instituto Nacional de Psiquiatría,Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,4,3
+Secretaría de Salud de Jalisco,Universidad de Guadalajara,4,4
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad Autónoma Metropolitana,4,4
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Instituto Nacional de Enfermedades Respiratorias,4,4
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Institute for Scientific and Technological Research,4,4
+Instituto Nacional de Enfermedades Respiratorias,National Institute of Genomic Medicine,4,4
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad Nacional Autónoma de México,4,4
+Instituto Politécnico Nacional,Universidad de Sonora,4,4
+Universidad de Colima,Universidad de Guanajuato,4,2
+Instituto Politécnico Nacional,Universidad Autónoma del Estado de México,4,4
+Instituto de Ecología,"Secretaría de Investigación, Innovación y Educación Superior",4,4
+Autonomous University of Queretaro,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,4,4
+Instituto Mexicano de Oftalmología IAP,Universidad Del Valle De Cuernavaca,4,4
+Instituto de Ecología,Universidad Veracruzana,4,4
+Benemérita Universidad Autónoma de Puebla,Universidad Autónoma de Sinaloa,4,1
+Autonomous University of Campeche,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,4,4
+Instituto Tecnologico de Orizaba,Tecnológico Nacional de México,4,4
+Instituto Tecnologico de Orizaba,Universidad Autónoma del Estado de México,4,4
+Instituto Politécnico Nacional,Mexican Institute of Petroleum,4,4
+Centro de Investigación Científica y de Educación Superior de Ensenada,Tecnológico de Monterrey,4,4
+Universidad Nacional Autónoma de México,Universidad del Valle de México,4,2
+Hospital de Especialidades,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,4,4
+Autonomous University of Queretaro,Center of Research and Technologic Development in Electrochemistry,3,3
+Autonomous University of Sinaloa,Universidad Nacional Autónoma de México,3,3
+Instituto Tecnológico Superior de Xalapa,Universidad Tecnológica de Aguascalientes,3,3
+El Colegio de la Frontera Sur,Tecnológico Nacional de México,3,3
+Technological University of the Mixteca,Universidad de la Sierra Juárez,3,3
+Tecnológico Nacional de México,University of Quintana Roo,3,3
+Colegio de Postgraduados,Universidad Autónoma del Carmen,3,3
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad de la Sierra Juárez,3,3
+Autonomous University of San Luis Potosí,National Institute of Anthropology and History,3,3
+Universidad Veracruzana,Universidad de la Sierra Juárez,3,3
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Instituto Nacional de Psiquiatría,3,3
+Chapingo Autonomous University,Universidad Nacional Autónoma de México,3,3
+Instituto Tecnológico Superior de Irapuato,Universidad Nacional Autónoma de México,3,3
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Instituto Nacional de Neurología y Neurocirugía,3,3
+Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,Instituto Politécnico Nacional,3,3
+Tecnológico Nacional de México,Universidad Autónoma de Ciudad Juárez,3,3
+Tecnológico Nacional de México,Universidad Autónoma de la Ciudad de México,3,3
+Tecnológico de Monterrey,Universidad de Especialidades,3,3
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Instituto Tecnológico y de Estudios Superiores de Occidente,3,2
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,"Secretaría de Investigación, Innovación y Educación Superior",3,3
+Universidad Autónoma de Baja California,Universidad de la Sierra Juárez,3,3
+Autonomous University of Tlaxcala,Instituto Nacional de Salud Pública,3,3
+Autonomous University of Tlaxcala,Hospital General de México,3,3
+Universidad Autónoma de Coahuila,Universidad Autónoma de Nuevo León,3,3
+Autonomous University of Yucatán,Instituto Nacional de Salud Pública,3,3
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Universidad de Sonora,3,3
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Universidad Autónoma de Nuevo León,3,3
+National Institute of Genomic Medicine,Universidad Autónoma Metropolitana,3,3
+Instituto Politécnico Nacional,Mathematics Research Center,3,3
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Mexican Social Security Institute,3,2
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,MSD (Mexico),3,3
+El Colegio de la Frontera Sur,National Commission for the Knowledge and Use of Biodiversity,3,3
+Polytechnic University of Queretaro,Universidad Nacional Autónoma de México,3,3
+El Colegio de la Frontera Sur,Instituto Nacional de Ecología y Cambio Climático,3,3
+Hospital General de México,Instituto Nacional de Pediatria,3,3
+Centro de Investigación Científica y de Educación Superior de Ensenada,Instituto Nacional de Cardiología,3,3
+Universidad Autónoma de Guerrero,Universidad Nacional Autónoma de México,3,3
+Center of Research and Technologic Development in Electrochemistry,Centro de Investigación en Materiales Avanzados,3,3
+Universidad Nacional Autónoma de México,Universidad de Cuautitlán Izcalli,3,3
+Universidad Autónoma del Carmen,Universidad de la Sierra Juárez,3,3
+Hospital de Especialidades,Mathematics Research Center,3,3
+Center for Research and Advanced Studies of the National Polytechnic Institute,Instituto Politécnico Nacional,3,3
+Centro Internacional de Mejoramiento de Maíz Y Trigo,Universidad de Guadalajara,3,3
+Autonomous University of Queretaro,Tecnológico de Monterrey,3,3
+Center for Research and Advanced Studies of the National Polytechnic Institute,Universidad Autónoma del Estado de Hidalgo,3,3
+Universidad Panamericana,Universidad de Especialidades,3,3
+Hospital General de México,Mexican Social Security Institute,3,3
+Ibero American University,Universidad Nacional Autónoma de México,3,3
+Ibero American University,Instituto Nacional de Perinatología,3,3
+Mathematics Research Center,Technological University of Mexico,3,3
+Autonomous University of Chihuahua,Instituto Tecnológico y de Estudios Superiores de Occidente,3,2
+Autonomous University of Chihuahua,Tecnológico de Monterrey,3,3
+Universidad Autónoma del Estado de México,Universidad de las Américas Puebla,2,2
+Universidad Autónoma del Estado de México,Universidad de Guadalajara,2,2
+Universidad Autónoma del Estado de México,Universidad Michoacana de San Nicolás de Hidalgo,2,2
+Autonomous University of San Luis Potosí,Instituto de Ecología,2,2
+Universidad de Colima,Universidad de León,2,2
+Universidad Politecnica del Estado de Morelos,Universidad Veracruzana,2,2
+Instituto Politécnico Nacional,Universidad Autónoma de la Ciudad de México,2,2
+Autonomous University of Chihuahua,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,2
+Autonomous University of Chihuahua,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,2,2
+National Commission for the Knowledge and Use of Biodiversity,"Secretaría de Investigación, Innovación y Educación Superior",2,2
+Mexican Institute of Petroleum,Universidad Autónoma del Estado de Hidalgo,2,2
+Instituto de Ecología,Universidad de Guanajuato,2,2
+Instituto de Ecología,Universidad Autónoma Metropolitana,2,2
+Institute for Social Security and Services for State Workers,Instituto Nacional de Perinatología,2,1
+Institute for Scientific and Technological Research,Universidad Autónoma del Carmen,2,2
+Hospital General de México,National Institute of Genomic Medicine,2,2
+Hospital General de México,Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,2,2
+Hospital de Especialidades,National Institute of Genomic Medicine,2,2
+Hospital de Especialidades,Instituto Politécnico Nacional,2,2
+Hospital de Especialidades,Instituto Nacional de Cardiología,2,2
+Hospital Universitario Dr José Eleuterio Gonzalez,Instituto Nacional de Cardiología,2,2
+Hospital Médica Sur,Universidad del Valle de México,2,2
+Hospital Médica Sur,Instituto Nacional de Pediatria,2,2
+Instituto Nacional de Cardiología,Mexican Social Security Institute,2,2
+Instituto Nacional de Cardiología,Instituto Nacional de Rehabilitación,2,2
+Instituto Nacional de Cardiología,Instituto Nacional de Enfermedades Respiratorias,2,2
+Hospital Civil de Guadalajara,Hospital Médica Sur,2,2
+Hospital Angeles Pedregal,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,2
+Hospital Angeles Pedregal,Instituto Nacional de Cardiología,2,2
+National Institute of Genomic Medicine,Secretaria de Salud,2,2
+Hospital Juárez de México,Universidad Nacional Autónoma de México,2,2
+Hospital Juárez de México,National Institute of Genomic Medicine,2,2
+Instituto Tecnológico de Tijuana,Tecnológico Nacional de México,2,2
+Instituto Tecnológico de Puebla,Tecnológico de Monterrey,2,2
+Instituto Tecnológico de Morelia,Universidad Nacional Autónoma de México,2,2
+Instituto Tecnológico de Morelia,Universidad Autónoma del Estado de Morelos,2,2
+Instituto Tecnológico de Culiacán,University of Quintana Roo,2,2
+Instituto Tecnológico de Culiacán,Universidad de Sonora,2,2
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Instituto Nacional de Rehabilitación,2,2
+El Colegio de la Frontera Sur,Instituto de Ecología,2,2
+El Colegio de la Frontera Sur,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,2
+Secretaría de Salud de Jalisco,Universidad Autónoma del Carmen,2,2
+"Secretaría de Investigación, Innovación y Educación Superior",Tecnológico Nacional de México,2,2
+"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",Universidad Autónoma del Estado de Morelos,2,2
+National Institute of Genomic Medicine,Universidad de Guadalajara,2,2
+Autonomous University of Yucatán,Center for Research and Advanced Studies of the National Polytechnic Institute,2,2
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Instituto Tecnologico de Veracruz,2,2
+Hospital Angeles Clinica Londres,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,2
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Universidad Veracruzana,2,2
+Autonomous University of Sinaloa,"Consejo Nacional de Humanidades, Ciencias y Tecnologías",2,2
+Autonomous University of San Luis Potosí,Universidad de Ciencias y Artes de Chiapas,2,2
+Autonomous University of Yucatán,Universidad Autónoma de Nuevo León,2,2
+Instituto Nacional de Cardiología,Universidad Autónoma de Occidente,2,2
+Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,National Institute of Genomic Medicine,2,2
+Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,Instituto de Ecología,2,2
+Instituto Nacional de Enfermedades Respiratorias,Universidad Autónoma de Baja California,2,1
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Universidad de Sonora,2,2
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Instituto Nacional de Perinatología,2,2
+Colegio de Postgraduados,Universidad de Colima,2,1
+Colegio de Postgraduados,Universidad Veracruzana,2,2
+Colegio de Postgraduados,Universidad Nacional Autónoma de México,2,2
+Colegio de Postgraduados,Universidad Autónoma de Baja California,2,2
+Colegio de Postgraduados,Universidad Autónoma Metropolitana,2,2
+Colegio de Postgraduados,Technological University of the Mixteca,2,2
+Tecnológico de Monterrey,Universidad Autónoma del Estado de México,2,2
+Tecnológico de Monterrey,Universidad Autónoma de la Ciudad de México,2,2
+Chapingo Autonomous University,Instituto de Ecología,2,2
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Universidad Del Valle De Cuernavaca,2,2
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Universidad Cuauhtémoc,2,2
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Universidad Autónoma de Occidente,2,2
+Instituto Nacional de Pediatria,Universidad Autónoma de Piedras Negras,2,2
+Instituto Nacional de Neurología y Neurocirugía,Universidad Autónoma de Baja California,2,2
+Instituto Nacional de Neurología y Neurocirugía,Universidad Autónoma Metropolitana,2,1
+Instituto Nacional de Neurología y Neurocirugía,Instituto Politécnico Nacional,2,2
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad Autónoma del Estado de México,2,2
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad Autónoma de Coahuila,2,2
+Instituto Nacional de Salud Pública,Mexican Social Security Institute,2,2
+Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,Universidad Nacional Autónoma de México,2,2
+Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,Universidad Autónoma Metropolitana,2,2
+Instituto Tecnológico de Cancún,Universidad Nacional Autónoma de México,2,2
+Instituto Tecnológico Superior de Xalapa,Universidad de Guanajuato,2,2
+Universidad Autónoma Metropolitana,Universidad Autónoma del Estado de México,2,2
+Universidad Autónoma Metropolitana,Universidad Autónoma del Carmen,2,2
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Colegio de Postgraduados,2,2
+Centro de Investigación y Proyectos en Ambiente y Desarrollo,Universidad Veracruzana,2,1
+Centro de Investigación y Proyectos en Ambiente y Desarrollo,Instituto Tecnológico y de Estudios Superiores de Occidente,2,2
+Centro de Investigación y Proyectos en Ambiente y Desarrollo,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,2,2
+Centro de Investigación y Estudios Superiores en Antropología Social,Universidad Veracruzana,2,2
+Centro de Investigación en Materiales Avanzados,Universidad de Xalapa,2,2
+Centro de Investigación en Materiales Avanzados,Universidad Autónoma del Estado de México,2,2
+Centro de Investigación en Materiales Avanzados,Instituto de Ecología,2,2
+Centro de Investigación en Materiales Avanzados,Instituto Tecnológico de Querétaro,2,2
+Centro de Investigación en Alimentación y Desarrollo,Universidad de Guanajuato,2,2
+Centro de Investigación en Alimentación y Desarrollo,Instituto Tecnológico de Puebla,2,2
+Centro de Investigación Científica y de Educación Superior de Ensenada,Universidad Autónoma del Estado de México,2,2
+Universidad Autónoma de Ciudad Juárez,Universidad de Sonora,2,2
+Centro de Investigación Científica y de Educación Superior de Ensenada,Tecnológico Nacional de México,2,2
+Centro de Investigación Científica y de Educación Superior de Ensenada,Instituto Politécnico Nacional,2,2
+Centro de Investigación Científica y de Educación Superior de Ensenada,Hospital General de México,2,2
+Centro de Investigación Científica y de Educación Superior de Ensenada,Centro de Investigación en Materiales Avanzados,2,2
+Centro de Investigación en Materiales Avanzados,Instituto Politécnico Nacional,2,2
+Instituto Tecnologico de Veracruz,Tuxtla Gutierrez Institute of Technology,2,2
+Instituto Politécnico Nacional,National Institute of Genomic Medicine,2,1
+Autonomous University of Queretaro,Universidad Autónoma del Carmen,2,2
+Centro Universitario México Valle,Mathematics Research Center,2,2
+Centro Nacional de Investigación y Desarrollo Tecnológico,Tecnológico Nacional de México,2,1
+Centro Médico ABC,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,2
+Centro Médico ABC,Instituto Nacional de Cardiología,2,2
+Universidad Autónoma de Coahuila,Universidad Nacional Autónoma de México,2,2
+Benemérita Universidad Autónoma de Puebla,Universidad Autónoma del Estado de México,2,2
+Benemérita Universidad Autónoma de Puebla,Mexican Institute of Petroleum,2,2
+Benemérita Universidad Autónoma de Puebla,"Consejo Nacional de Humanidades, Ciencias y Tecnologías",2,2
+Center for Scientific Research and Higher Education at Ensenada,Universidad de Sonora,2,2
+Center for Scientific Research and Higher Education at Ensenada,Universidad Nacional Autónoma de México,2,2
+Center for Research and Advanced Studies of the National Polytechnic Institute,Universidad Nacional Autónoma de México,2,2
+Universidad Nacional Autónoma de México,Universidad del Desarrollo del Estado de Puebla,2,2
+Universidad Nacional Autónoma de México,Universidad de Sonora,2,2
+Universidad Nacional Autónoma de México,Universidad de Morelia,2,2
+Universidad Autónoma de Piedras Negras,Universidad del Valle de México,2,2
+Autonomous University of Tamaulipas,Instituto Tecnológico y de Estudios Superiores de Occidente,2,2
+Autonomous University of Tamaulipas,Center for Research and Advanced Studies of the National Polytechnic Institute,2,2
+Autonomous University of Sinaloa,Universidad Autónoma de Baja California,2,2
+Instituto Politécnico Nacional,Universidad de Xalapa,2,2
+Autonomous University of Campeche,"Secretaría de Investigación, Innovación y Educación Superior",2,2
+Anahuac Mayab University,"Secretaría de Investigación, Innovación y Educación Superior",2,2
+Universidad de Guadalajara,Universidad de Sonora,2,2
+Autonomous University of Chihuahua,Centro Universitario de Chihuahua,1,1
+Autonomous University of Chihuahua,Centro de Investigación en Materiales Avanzados,1,1
+Autonomous University of Chihuahua,Durango Institute of Technology,1,1
+Autonomous University of Chihuahua,Ibero-American University Puebla,1,1
+Autonomous University of Chihuahua,Instituto Mexicano de Tecnología del Agua,1,1
+Autonomous University of Chihuahua,Mexican Social Security Institute,1,1
+Universidad Nacional Autónoma de México,University of Monterrey,1,1
+Instituto Politécnico Nacional,Universidad Autónoma de Baja California,1,1
+Instituto Politécnico Nacional,Universidad de Morelia,1,1
+Instituto Nacional de Salud Pública,Universidad Marista,1,1
+Instituto Nacional de Salud Pública,Universidad Nacional Autónoma de México,1,1
+Instituto Politécnico Nacional,Instituto Tecnologico de Orizaba,1,1
+Instituto Politécnico Nacional,Instituto Tecnólogico de La Laguna,1,1
+Instituto Politécnico Nacional,National College,1,1
+Instituto Politécnico Nacional,"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",1,1
+Instituto Tecnologico de Veracruz,Universidad Veracruzana,1,1
+Instituto Tecnológico Superior de Irapuato,Tecnológico de Monterrey,1,1
+Instituto Tecnológico Superior de Xalapa,"National Institute of Astrophysics, Optics and Electronics",1,1
+Instituto Tecnológico Superior de Xalapa,Universidad Latina de México,1,1
+Instituto Tecnológico Superior de Xalapa,Universidad de Guadalajara,1,1
+Instituto Tecnológico de Chetumal,University of Quintana Roo,1,1
+Instituto Tecnológico de Ciudad Madero,Mathematics Research Center,1,1
+Instituto Nacional de Perinatología,Universidad Nacional Autónoma de México,1,1
+Instituto Nacional de Rehabilitación,Universidad Autónoma de Occidente,1,1
+Instituto Nacional de Salud Pública,Universidad Autónoma Metropolitana,1,1
+Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,Universidad Autónoma Metropolitana,1,1
+Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,Universidad de Colima,1,1
+Instituto Nacional de Neurología y Neurocirugía,Mexican Social Security Institute,1,1
+Instituto Nacional de Pediatria,Instituto Politécnico Nacional,1,1
+Instituto Nacional de Pediatria,MSD (Mexico),1,1
+Instituto Nacional de Enfermedades Respiratorias,Universidad Autónoma de Nuevo León,1,1
+Instituto Nacional de Cardiología,Universidad de Sonora,1,1
+Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,Instituto Tecnológico de Querétaro,1,1
+Instituto Tecnológico de Morelia,"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",1,1
+Instituto Tecnólogico de La Laguna,"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",1,1
+Instituto Tecnólogico de La Laguna,Tecnológico Nacional de México,1,1
+Instituto de Ecología,Pronatura Noroeste,1,1
+Institute for Social Security and Services for State Workers,Universidad de Colima,1,1
+Instituto Nacional de Cancerología,Instituto Tecnológico de Matamoros,1,1
+Instituto Nacional de Cancerología,"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",1,1
+Instituto Nacional de Cardiología,Interamerican Society of Cardiology,1,1
+Hospital de Especialidades,Technological University of Mexico,1,1
+Hospital de Especialidades,Universidad Autónoma de Occidente,1,1
+Hospital de Especialidades,Universidad Cuauhtémoc,1,1
+Ibero-American University Puebla,Mexican Social Security Institute,1,1
+Ibero-American University Puebla,Universidad Autónoma del Estado de Morelos,1,1
+Ibero-American University Puebla,Universidad Internacional,1,1
+Ibero-American University Puebla,Universidad de Guadalajara,1,1
+Institute for Scientific and Technological Research,Secretaría de Salud de Jalisco,1,1
+Institute for Social Security and Services for State Workers,Sonora Institute of Technology,1,1
+Mexican Social Security Institute,Universidad Anáhuac,1,1
+Mexican Social Security Institute,Universidad Autónoma del Estado de Morelos,1,1
+Mexican Social Security Institute,Universidad de Guadalajara,1,1
+National Commission for the Knowledge and Use of Biodiversity,Tecnológico Nacional de México,1,1
+Hospital Médica Sur,Universidad Autónoma de Piedras Negras,1,1
+Hospital Médica Sur,Universidad Nacional Autónoma de México,1,1
+Hospital Universitario Dr José Eleuterio Gonzalez,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,1
+Hospital Universitario Dr José Eleuterio Gonzalez,Instituto Nacional de Enfermedades Respiratorias,1,1
+Hospital Universitario Dr José Eleuterio Gonzalez,Instituto Tecnológico de Querétaro,1,1
+Hospital de Especialidades,Instituto Nacional de Rehabilitación,1,1
+Hospital General de México,Universidad Nacional Autónoma de México,1,1
+Hospital General de México,Universidad del Valle de México,1,1
+Hospital Infantil de México Federico Gómez,Universidad Nacional Autónoma de México,1,1
+Hospital Infantil de México Federico Gómez,Universidad de Sonora,1,1
+Hospital Juárez de México,Hospital Médica Sur,1,1
+Hospital Juárez de México,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,1
+Hospital Juárez de México,Universidad Autónoma de Nuevo León,1,1
+Hospital Médica Sur,Instituto Jalisciense de Cancerología,1,1
+Hospital Angeles Pedregal,Hospital de Especialidades,1,1
+Hospital Angeles Pedregal,Instituto Nacional de Rehabilitación,1,1
+Hospital Angeles Pedregal,Universidad Autónoma de Occidente,1,1
+Hospital Civil de Guadalajara,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,1
+Hospital Civil de Guadalajara,Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,1,1
+Hospital Español,Institute for Social Security and Services for State Workers,1,1
+Hospital Español,Sonora Institute of Technology,1,1
+Hospital Español,Universidad de Colima,1,1
+Hospital General de México,Hospital de Especialidades,1,1
+Polytechnic University of Queretaro,Universidad Autónoma del Estado de Hidalgo,1,1
+"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",Tecnológico Nacional de México,1,1
+"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",Universidad Autónoma de Coahuila,1,1
+"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",Universidad Autónoma del Estado de Hidalgo,1,1
+"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",Universidad Nacional Autónoma de México,1,1
+El Colegio de Veracruz,Universidad Veracruzana,1,1
+El Colegio de la Frontera Sur,Instituto Tecnológico Superior de Irapuato,1,1
+El Colegio de la Frontera Sur,"Secretaría de Ciencia, Humanidades, Tecnología e Innovación",1,1
+El Colegio de la Frontera Sur,University of Quintana Roo,1,1
+Ensenada Institute of Technology,Universidad Autónoma de Baja California,1,1
+Hospital Angeles Clinica Londres,Universidad Del Valle De Cuernavaca,1,1
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Instituto Tecnológico Superior de Xalapa,1,1
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Tecnológico de Monterrey,1,1
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías","Universidad Autónoma de Zacatecas ""Francisco García Salinas""",1,1
+Consejo de Ciencia y Tecnología del Estado de Tabasco,Tecnológico de Monterrey,1,1
+Cultura,Secretaría de Salud de Jalisco,1,1
+Durango Institute of Technology,Instituto Mexicano de Tecnología del Agua,1,1
+El Colegio de México,Tecnológico de Monterrey,1,1
+Sonora Institute of Technology,Universidad de Colima,1,1
+Sonora Institute of Technology,Universidad de Guadalajara,1,1
+Technological University of the Mixteca,Universidad Autónoma de Baja California,1,1
+Technological University of the Mixteca,Universidad Autónoma del Carmen,1,1
+Technological University of the Mixteca,Universidad Veracruzana,1,1
+Tecnológico Nacional de México,Universidad Autónoma del Estado de México,1,1
+Colegio de Postgraduados,Instituto Politécnico Nacional,1,1
+Colegio de Postgraduados,Mathematics Research Center,1,1
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Consejo de Ciencia y Tecnología del Estado de Tabasco,1,1
+"Consejo Nacional de Humanidades, Ciencias y Tecnologías",Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad Veracruzana,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad de Colima,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad de Guanajuato,1,1
+Chapingo Autonomous University,Mathematics Research Center,1,1
+Chapingo Autonomous University,Universidad Autónoma del Estado de México,1,1
+Chapingo Autonomous University,Universidad de Guadalajara,1,1
+Chapingo Autonomous University,Universidad de Guanajuato,1,1
+Colegio de Postgraduados,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,1
+Tecnológico Nacional de México,Universidad Veracruzana,1,1
+Tecnológico de Monterrey,Universidad de Colima,1,1
+Universidad Autónoma Agraria Antonio Narro,Universidad Nacional Autónoma de México,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,"National Institute of Astrophysics, Optics and Electronics",1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Polytechnic University of Queretaro,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Secretariat of Environment and Natural Resources,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Technological University of the Mixteca,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad Autónoma de Baja California,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad Autónoma del Carmen,1,1
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,Universidad Autónoma del Estado de Hidalgo,1,1
+Centro de Investigación en Materiales Avanzados,Universidad Autónoma Metropolitana,1,1
+Centro de Investigación en Materiales Avanzados,Universidad Michoacana de San Nicolás de Hidalgo,1,1
+Centro de Investigación en Materiales Avanzados,Universidad de Sonora,1,1
+Centro de Investigación y Estudios Superiores en Antropología Social,Tecnológico de Monterrey,1,1
+Universidad Autónoma Metropolitana,Universidad Juárez Autónoma de Tabasco,1,1
+Universidad Autónoma Metropolitana,Universidad de Guadalajara,1,1
+Universidad Autónoma Metropolitana,Universidad de Sonora,1,1
+Universidad Autónoma de Baja California,Universidad Autónoma de Nuevo León,1,1
+Universidad Autónoma de Baja California,Universidad Autónoma del Carmen,1,1
+Universidad Autónoma de Baja California,Universidad Veracruzana,1,1
+Centro de Investigación en Alimentación y Desarrollo,Tuxtla Gutierrez Institute of Technology,1,1
+Centro de Investigación en Materiales Avanzados,Instituto Mexicano de Tecnología del Agua,1,1
+Centro Universitario de Sonora,Sonora Institute of Technology,1,1
+Centro Universitario de Sonora,Universidad de Guadalajara,1,1
+Centro Universitario de Sonora,Universidad de Sonora,1,1
+Centro de Estudios Superiores Universitarios,Universidad Nacional Autónoma de México,1,1
+Centro de Investigaciones en Optica,"National Institute of Astrophysics, Optics and Electronics",1,1
+Centro de Investigación Científica y de Educación Superior de Ensenada,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,1,1
+Centro de Investigación Científica y de Educación Superior de Ensenada,Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,1,1
+Centro de Investigación Científica y de Educación Superior de Ensenada,Instituto de Ecología,1,1
+Universidad Autónoma de Coahuila,Universidad Autónoma del Estado de Hidalgo,1,1
+Universidad Autónoma de Nuevo León,Universidad Autónoma del Estado de Hidalgo,1,1
+Centro Medico Nacional Siglo XXI,Centro Médico ABC,1,1
+Centro Medico Nacional Siglo XXI,Tecnológico de Monterrey,1,1
+Centro Médico ABC,Hospital Angeles Pedregal,1,1
+Centro Médico ABC,Hospital de Especialidades,1,1
+Centro Médico ABC,Instituto Nacional de Rehabilitación,1,1
+Centro Médico ABC,Instituto Politécnico Nacional,1,1
+Centro Médico ABC,Universidad Autónoma de Occidente,1,1
+Center for Global Change and Sustainability,Instituto de Ecología,1,1
+Center for Global Change and Sustainability,Universidad Nacional Autónoma de México,1,1
+Center for Research and Advanced Studies of the National Polytechnic Institute,Center for Scientific Research and Higher Education at Ensenada,1,1
+Center for Research and Advanced Studies of the National Polytechnic Institute,Instituto Nacional de Pediatria,1,1
+Center for Scientific Research and Higher Education at Ensenada,Instituto Politécnico Nacional,1,1
+Benemérita Universidad Autónoma de Puebla,Instituto Nacional de Investigaciones Nucleares,1,1
+Benemérita Universidad Autónoma de Puebla,Instituto Tecnológico de Tijuana,1,1
+Universidad Autónoma de Occidente,Universidad Autónoma del Estado de México,1,1
+Universidad Autónoma de Piedras Negras,Universidad Nacional Autónoma de México,1,1
+Universidad Autónoma del Carmen,Universidad Veracruzana,1,1
+Universidad Autónoma del Estado de Morelos,Universidad de Guadalajara,1,1
+Autonomous University of Tlaxcala,Mexican Social Security Institute,1,1
+Autonomous University of Yucatán,National Institute of Anthropology and History,1,1
+Autonomous University of Yucatán,"Secretaría de Investigación, Innovación y Educación Superior",1,1
+Benemérita Universidad Autónoma de Puebla,Center for Global Change and Sustainability,1,1
+Benemérita Universidad Autónoma de Puebla,Centro de Investigación en Materiales Avanzados,1,1
+Benemérita Universidad Autónoma de Puebla,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,1,1
+Autonomous University of Sinaloa,Instituto Tecnologico de Veracruz,1,1
+Autonomous University of Sinaloa,Universidad Veracruzana,1,1
+Autonomous University of Sinaloa,Universidad de Guadalajara,1,1
+Autonomous University of Tamaulipas,Hospital Infantil de México Federico Gómez,1,1
+Autonomous University of Tamaulipas,Universidad Nacional Autónoma de México,1,1
+Autonomous University of Chihuahua,Universidad Autónoma del Estado de Morelos,1,1
+Autonomous University of Chihuahua,Universidad de Guadalajara,1,1
+Autonomous University of Queretaro,Centro de Investigación en Materiales Avanzados,1,1
+Autonomous University of Queretaro,Institute for Scientific and Technological Research,1,1
+Autonomous University of Queretaro,Secretaría de Salud de Jalisco,1,1
+Universidad Intercontinental,Universidad Nacional Autónoma de México,1,1
+Universidad Juárez Autónoma de Tabasco,Universidad de Sonora,1,1
+Universidad Juárez del Estado de Durango,Universidad Nacional Autónoma de México,1,1
+Universidad de Comunicación Avanzada,Universidad de Xalapa,1,1
+Asociación Mexicana de Psicología y Desarrollo Comunitario,Universidad Nacional Autónoma de México,1,1
+Universidad de Sonora,University of Navojoa,1,1

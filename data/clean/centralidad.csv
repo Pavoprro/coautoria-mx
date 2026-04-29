@@ -1,24 +1,301 @@
 autor_id,nombre,institucion,articulos,citas,betweenness,degree
-https://openalex.org/A5077204968,Kai Sonder,Centro Internacional de Mejoramiento de Maíz Y Trigo,4,1569,0.5887445887445888,5
-https://openalex.org/A5089922603,Alison R. Bentley,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,661,0.5194805194805194,6
-https://openalex.org/A5076778683,Khondoker Abdul Mottaleb,Centro Internacional de Mejoramiento de Maíz Y Trigo,4,1572,0.30303030303030304,5
-https://openalex.org/A5049389291,Osval A. Montesinos‐López,Universidad de Colima,5,987,0.1551226551226551,10
-https://openalex.org/A5068049825,Olaf Erenstein,Centro Internacional de Mejoramiento de Maíz Y Trigo,6,2351,0.12987012987012986,4
-https://openalex.org/A5076158905,José Crossa,Centro Internacional de Mejoramiento de Maíz Y Trigo,11,3123,0.10101010101010098,9
-https://openalex.org/A5037946457,Susanne Dreisigacker,Centro Internacional de Mejoramiento de Maíz Y Trigo,4,818,0.10101010101010098,9
-https://openalex.org/A5013640580,Gideon Kruseman,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,547,0.09090909090909091,2
-https://openalex.org/A5000458971,Matthew Reynolds,Centro Internacional de Mejoramiento de Maíz Y Trigo,9,2035,0.09090909090909091,2
-https://openalex.org/A5073272621,Dil Bahadur Rahut,Centro Internacional de Mejoramiento de Maíz Y Trigo,8,1746,0.08225108225108226,5
-https://openalex.org/A5022989406,Jeetendra Prakash Aryal,Centro Internacional de Mejoramiento de Maíz Y Trigo,6,1428,0.08225108225108226,5
-https://openalex.org/A5031038442,Abelardo Montesinos‐López,Universidad de Guadalajara,4,756,0.032467532467532464,5
-https://openalex.org/A5018700326,Gemma Molero,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,421,0.0,1
-https://openalex.org/A5056099281,Philomin Juliana,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,1394,0.0,7
-https://openalex.org/A5059664632,Ravi P. Singh,Centro Internacional de Mejoramiento de Maíz Y Trigo,8,2263,0.0,7
-https://openalex.org/A5032652567,Clare Stirling,Centro Internacional de Mejoramiento de Maíz Y Trigo,5,1130,0.0,3
-https://openalex.org/A5009404553,Suchismita Mondal,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,695,0.0,7
-https://openalex.org/A5073803808,Paulino Pérez‐Rodríguez,Colegio de Postgraduados,4,962,0.0,7
-https://openalex.org/A5081220480,Bram Govaerts,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,588,0.0,2
-https://openalex.org/A5047760994,Tek B. Sapkota,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,705,0.0,3
-https://openalex.org/A5105407837,Carlos Hernández-Suárez,Universidad de Colima,3,508,0.0,2
-https://openalex.org/A5008907194,Natalia Palacios‐Rojas,Centro Internacional de Mejoramiento de Maíz Y Trigo,4,696,0.0,1
-https://openalex.org/A5003947009,Julio Huerta‐Espino,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,3,707,0.0,7
+https://openalex.org/A5038123737,Alfredo Ponce‐de‐León,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,5,843,0.003816,27
+https://openalex.org/A5005019504,Carlos A. Aguilar‐Salinas,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,12,18115,0.001898,18
+https://openalex.org/A5069074260,Tonatiuh Barrientos‐Gutiérrez,Instituto Nacional de Salud Pública,3,419,0.000239,6
+https://openalex.org/A5079452567,Martin Romero‐Martínez,Instituto Nacional de Salud Pública,3,481,0.000239,6
+https://openalex.org/A5090659943,Juan Á. Rivera,Instituto Nacional de Salud Pública,6,1289,0.000239,6
+https://openalex.org/A5076158905,José Crossa,Centro Internacional de Mejoramiento de Maíz Y Trigo,11,3123,7.9e-05,9
+https://openalex.org/A5073803808,Paulino Pérez‐Rodríguez,Colegio de Postgraduados,4,962,7.9e-05,9
+https://openalex.org/A5038322695,I. Torres,"National Institute of Astrophysics, Optics and Electronics",2,379,5.9e-05,52
+https://openalex.org/A5013957672,P. Miranda-Romagnoli,Universidad Autónoma del Estado de Hidalgo,2,379,5.9e-05,52
+https://openalex.org/A5065506851,A. Carramiñana,"National Institute of Astrophysics, Optics and Electronics",2,379,5.9e-05,52
+https://openalex.org/A5024829264,L. Nellen,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5101568266,O. Martı́nez,Benemérita Universidad Autónoma de Puebla,2,379,5.9e-05,52
+https://openalex.org/A5016254887,J. C. Díaz–Vélez,Universidad de Guadalajara,2,379,5.9e-05,52
+https://openalex.org/A5106322339,D. Avila Rojas,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5038898518,G. Luis-Raya,Universidad Politécnica de Pachuca,2,379,5.9e-05,52
+https://openalex.org/A5014539077,U. Cotti,Universidad Michoacana de San Nicolás de Hidalgo,2,379,5.9e-05,52
+https://openalex.org/A5083910892,M. M. González,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5059072790,F. Garfias,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5109453266,S. Kaufmann,Universidad Politécnica de Pachuca,2,379,5.9e-05,52
+https://openalex.org/A5009950983,E. Moreno,Universidad Nacional Autónoma de México,2,758,5.9e-05,52
+https://openalex.org/A5053170826,C. Espinoza,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5109479577,N. Fraija,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5010753463,J. Cotzomi,Benemérita Universidad Autónoma de Puebla,2,379,5.9e-05,52
+https://openalex.org/A5063122307,A. Iriarte,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5028275753,O. Tibolla,Universidad Politécnica de Pachuca,2,379,5.9e-05,52
+https://openalex.org/A5014274154,E. De la Fuente,Universidad de Guadalajara,2,379,5.9e-05,52
+https://openalex.org/A5053274487,K. S. Caballero‐Mora,Universidad Autónoma de Chiapas,7,1730,5.9e-05,52
+https://openalex.org/A5059564159,D. Rosa‐González,"National Institute of Astrophysics, Optics and Electronics",3,670,5.9e-05,52
+https://openalex.org/A5061977051,F. Hueyotl‐Zahuantitla,Universidad Autónoma de Chiapas,2,379,5.9e-05,52
+https://openalex.org/A5060807711,A. L. Longinotti,"National Institute of Astrophysics, Optics and Electronics",2,379,5.9e-05,52
+https://openalex.org/A5081520137,C. de León,Universidad Michoacana de San Nicolás de Hidalgo,2,526,5.9e-05,52
+https://openalex.org/A5055552144,R. Noriega-Papaqui,Universidad Autónoma del Estado de Hidalgo,2,379,5.9e-05,52
+https://openalex.org/A5063175945,A. Galván-Gaméz,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5110299993,S. Hernández,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5048516635,H. León Vargas,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5010199371,T. Capistrán,"National Institute of Astrophysics, Optics and Electronics",2,379,5.9e-05,52
+https://openalex.org/A5049972616,A. Sandoval,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5081950790,J. A. García-González,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5077878276,R. Alfaro,Universidad Nacional Autónoma de México,3,502,5.9e-05,52
+https://openalex.org/A5029576940,J. Martínez-Castro,Instituto Politécnico Nacional,2,379,5.9e-05,52
+https://openalex.org/A5054892400,S. Dichiara,Universidad Nacional Autónoma de México,2,379,5.9e-05,52
+https://openalex.org/A5055201388,Lucía Sanaphre‐Villanueva,"Secretaría de Investigación, Innovación y Educación Superior",4,2254,3.3e-05,19
+https://openalex.org/A5024463617,José Luís Andrade,"Secretaría de Investigación, Innovación y Educación Superior",4,953,3.3e-05,19
+https://openalex.org/A5023059860,Patricia Balvanera,Universidad Nacional Autónoma de México,9,3970,3.3e-05,19
+https://openalex.org/A5028483178,Miguel Martı́nez-Ramos,Universidad Nacional Autónoma de México,6,1633,3.3e-05,19
+https://openalex.org/A5027951707,Francisco Mora,Universidad Nacional Autónoma de México,7,1795,3.3e-05,19
+https://openalex.org/A5017167555,Juan Manuel Dupuy,"Secretaría de Investigación, Innovación y Educación Superior",5,1479,3.3e-05,19
+https://openalex.org/A5025105822,Susana Ochoa‐Gaona,El Colegio de la Frontera Sur,5,1479,3.3e-05,19
+https://openalex.org/A5082585333,Rodrigo Muñoz,Universidad Nacional Autónoma de México,5,1479,3.3e-05,19
+https://openalex.org/A5031394961,Jorge A. Meave,Universidad Nacional Autónoma de México,6,1673,3.3e-05,19
+https://openalex.org/A5010400575,Ben de Jong,El Colegio de la Frontera Sur,4,1258,3.3e-05,19
+https://openalex.org/A5010684750,José Luis Hernández‐Stefanoni,"Secretaría de Investigación, Innovación y Educación Superior",5,1479,3.3e-05,19
+https://openalex.org/A5016959622,Ivette Cruz‐Bautista,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,757,1.2e-05,14
+https://openalex.org/A5023207846,Alexandro J. Martagón,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,1514,1.2e-05,14
+https://openalex.org/A5082237231,Paloma Almeda‐Valdés,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,3,1025,1.2e-05,14
+https://openalex.org/A5054077929,Donají Gómez‐Velasco,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,757,1.2e-05,14
+https://openalex.org/A5061086963,Tannia Leticia Viveros-Ruiz,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,757,1.2e-05,14
+https://openalex.org/A5021097809,Roopa Mehta,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,4,1220,1.2e-05,14
+https://openalex.org/A5047616746,Arsenio Vargas‐Vázquez,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,3,2430,1.2e-05,14
+https://openalex.org/A5088249067,Omar Yaxmehen Bello‐Chavolla,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,3,2430,1.2e-05,14
+https://openalex.org/A5068559276,Hans van der Wal,El Colegio de la Frontera Sur,3,1131,5e-06,17
+https://openalex.org/A5047530416,Eduardo A. Pérez‐García,Universidad Nacional Autónoma de México,3,1131,5e-06,17
+https://openalex.org/A5052585365,Jorge Rodríguez‐Velázquez,Universidad Nacional Autónoma de México,3,1131,5e-06,17
+https://openalex.org/A5101476415,J. D. Álvarez,Universidad Michoacana de San Nicolás de Hidalgo,1,147,0.0,42
+https://openalex.org/A5009500370,Ciprian F. Ardelean,"Universidad Autónoma de Zacatecas ""Francisco García Salinas""",1,172,0.0,10
+https://openalex.org/A5073175528,Randall J. Kimple,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5049294543,Melissa L. Johnson,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5086409321,Armando R. Tovar,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,3,466,0.0,2
+https://openalex.org/A5072532781,Alfredo Pérez‐Fragoso,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,297,0.0,10
+https://openalex.org/A5010008244,Magdalena Sevilla-González,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,726,0.0,13
+https://openalex.org/A5048503699,Amber Moore,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5073796630,Andrea Gombos,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5028299369,Bryan J. Schneider,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5044090304,Alberto Trujillo Campos,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5085325388,Neftalí Eduardo Antonio-Villa,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,1246,0.0,9
+https://openalex.org/A5085083859,Casandra Reyes‐García,"Secretaría de Investigación, Innovación y Educación Superior",1,172,0.0,16
+https://openalex.org/A5107834619,M. Arslandok,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5030231487,César Bonavides-Martínez,Universidad Nacional Autónoma de México,2,643,0.0,12
+https://openalex.org/A5066704295,Carla M. Román‐Montes,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5023783658,Frédéric Amant,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5079232768,Julio Collado‐Vides,Universidad Nacional Autónoma de México,2,643,0.0,12
+https://openalex.org/A5086538526,María Fernanda González-Lara,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5057586786,Anna Barbro Sætersdal,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5063421849,Agustín Ortiz-Butrón,Universidad Nacional Autónoma de México,1,172,0.0,10
+https://openalex.org/A5002545024,Samuel Canizales‐Quinteros,National Institute of Genomic Medicine,5,2590,0.0,1
+https://openalex.org/A5027500580,Brenda Ponce Lira,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5087380706,Martine Piccart,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5049270979,David Eduardo Meza-Sánchez,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,594,0.0,10
+https://openalex.org/A5107853461,Johanna Kuusisto,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5082195410,Cristina Saura,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5039190544,Jeffrey S. Strock,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5062231021,Christine Rousset‐Jablonski,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5107831423,N. Bianchi,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5073764726,Jiram Torres‐Ruiz,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,297,0.0,10
+https://openalex.org/A5050511958,Sudeep S. Sidhu,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5070501483,Teresa I. Ferreiro,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5024389718,Merry Jennifer Markham,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5056367688,José C. Páez-Franco,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,594,0.0,10
+https://openalex.org/A5027044033,Kathryn J. Ruddy,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5035621787,Jeffrey P. Mitchell,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5022430117,Simon Fonteyne,Centro Internacional de Mejoramiento de Maíz Y Trigo,1,222,0.0,22
+https://openalex.org/A5073416357,Laura Gómez-Romero,Universidad Nacional Autónoma de México,1,415,0.0,12
+https://openalex.org/A5019698562,Norma A. Bobadilla,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,426,0.0,2
+https://openalex.org/A5025554206,Fátima Cardoso,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5014995908,Catherine Diefenbach,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5032289984,Leonardo Crespo‐Herrera,Centro Internacional de Mejoramiento de Maíz Y Trigo,2,408,0.0,8
+https://openalex.org/A5070601448,J. C. Arteaga-Velázquez,Universidad Michoacana de San Nicolás de Hidalgo,1,232,0.0,43
+https://openalex.org/A5011524817,Carla Medrano-Borromeo,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5103059172,Jennifer R. Reeve,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5056938795,R. Averbeck,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5041544857,Bernardo Alfonso Martínez-Guerra,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5017116197,Alejandra Martínez-Valenzuela,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5047342242,N. Apadula,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5020734888,Diana Gómez‐Martín,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,4,573,0.0,10
+https://openalex.org/A5005156598,Felipe Arreola-Villa,Universidad Nacional Autónoma de México,1,433,0.0,14
+https://openalex.org/A5024682115,G. Alonso‐Núñez,Universidad Nacional Autónoma de México,2,249,0.0,0
+https://openalex.org/A5085501999,Edith Orihuela-Belmonte,Instituto Nacional de Ecología y Cambio Climático,1,172,0.0,16
+https://openalex.org/A5070252158,Víctor Del Moral-Chávez,Universidad Nacional Autónoma de México,1,415,0.0,12
+https://openalex.org/A5014231493,Federico Centeno-Cruz,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5001562050,Virginia F. Borges,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5042319413,Marta García-Sánchez,Universidad Nacional Autónoma de México,3,767,0.0,3
+https://openalex.org/A5068588042,Miguel Ángel Martínez Gamiño,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5024488622,Angélica Martínez‐Hernández,National Institute of Genomic Medicine,2,810,0.0,17
+https://openalex.org/A5033888353,Antonio Olivas‐Martínez,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5068677359,Robert G. Maki,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5033098879,Socorro Gama‐Castro,Universidad Nacional Autónoma de México,2,643,0.0,12
+https://openalex.org/A5059815525,Alonso Romo-Romo,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,592,0.0,13
+https://openalex.org/A5060925387,Leticia Ávila‐Burgos,Instituto Nacional de Salud Pública,3,3276,0.0,0
+https://openalex.org/A5049389291,Osval A. Montesinos‐López,Universidad de Colima,5,987,0.0,8
+https://openalex.org/A5004756333,Halle C. F. Moore,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5064150548,Christobel Saunders,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5059664632,Ravi P. Singh,Centro Internacional de Mejoramiento de Maíz Y Trigo,8,2263,0.0,8
+https://openalex.org/A5107911889,D. García,Universidad Nacional Autónoma de México,1,232,0.0,43
+https://openalex.org/A5087135694,R. Bellwied,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5088697304,Giuseppe Viale,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5001731251,Audrey Mailliez,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5107856740,R. Arnaldi,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5112361276,R. Anwar,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5040171276,Akemi Kataoka,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5050772514,Daniela Ledezma-Tejeida,Universidad Nacional Autónoma de México,1,415,0.0,12
+https://openalex.org/A5087792692,Alfonso Herrero,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5011994652,Ryan Koesterer,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5006019606,Víctor Hugo Tovar-Méndez,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5075966080,William F. Schillinger,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5031443698,R. Bala,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5032583584,Teresa Shamah‐Levy,Instituto Nacional de Salud Pública,3,468,0.0,4
+https://openalex.org/A5005951305,Karin Ribi,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5004830510,A. Lara,Universidad Nacional Autónoma de México,1,232,0.0,43
+https://openalex.org/A5084231693,Lorenzo Álvarez‐Filip,Universidad Nacional Autónoma de México,5,1399,0.0,3
+https://openalex.org/A5053376791,Marco Colleoni,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5082869958,Luis Barba-Pingarón,Universidad Nacional Autónoma de México,1,172,0.0,10
+https://openalex.org/A5041610393,Elvia Mendoza‐Caamal,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5071224458,Yam Zul Ernesto Ocampo-Díaz,Autonomous University of San Luis Potosí,1,172,0.0,10
+https://openalex.org/A5108166900,F. Barile,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5086055222,Velu Govindan,Centro Internacional de Mejoramiento de Maíz Y Trigo,2,408,0.0,8
+https://openalex.org/A5102873527,Gabrielle B. Rocque,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5002252238,Emilio J. Córdova,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5105638963,M. Angeletti,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5013790646,Monica Ruggeri,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5105451553,R.A. Bertens,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5009404553,Suchismita Mondal,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,695,0.0,8
+https://openalex.org/A5007120220,Dolores Briones Reyes,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5066156346,César Rodolfo Caballeros-Barragán,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,592,0.0,13
+https://openalex.org/A5083639278,E. G. Pérez-Pérez,Universidad Politécnica de Pachuca,1,232,0.0,43
+https://openalex.org/A5021025671,Luis Muñiz-Rascado,Universidad Nacional Autónoma de México,2,643,0.0,12
+https://openalex.org/A5004212252,Noelle K. LoConte,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5048358120,V. Ávila-Reese,Universidad Nacional Autónoma de México,3,2482,0.0,3
+https://openalex.org/A5003748863,Jesús J. De La Rosa-Díaz,"Universidad Autónoma de Zacatecas ""Francisco García Salinas""",1,172,0.0,10
+https://openalex.org/A5059879221,M. Cano-Díaz,Universidad Nacional Autónoma de México,5,2899,0.0,3
+https://openalex.org/A5043235685,R. Donald Harvey,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5052086418,Arturo Galindo‐Fraga,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,321,0.0,17
+https://openalex.org/A5069071467,Javier A. Garza-Cervantes,Universidad Autónoma de Nuevo León,2,339,0.0,1
+https://openalex.org/A5040551434,José Rubén Morones‐Ramírez,Universidad Autónoma de Nuevo León,2,339,0.0,1
+https://openalex.org/A5044114354,Horacio Paz,Universidad Nacional Autónoma de México,2,348,0.0,12
+https://openalex.org/A5047775250,Edgar Ortíz‐Brizuela,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5081389327,Sneẑana Šušnjar,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5031299191,Richard L. Schilsky,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5107790015,J. C. Arteaga‐Velázquez,Universidad Michoacana de San Nicolás de Hidalgo,1,147,0.0,42
+https://openalex.org/A5020746926,Alberto Borbón Gracia,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5001457664,Víctor A. Sosa‐Hernández,Instituto Politécnico Nacional,2,910,0.0,10
+https://openalex.org/A5112472336,Aron Goldhirsch,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5036122402,Axel de la Macorra,Universidad Nacional Autónoma de México,18,7209,0.0,3
+https://openalex.org/A5059764563,Donald W. Bowden,Instituto Nacional de Salud Pública,1,336,0.0,17
+https://openalex.org/A5088086273,Ernesto Solís Moya,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5053244337,Carlos Rodríguez‐Galindo,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5022097827,Vesna Bjelic‐Radisic,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5061932412,Oscar Arturo Lozano-Cruz,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5032490352,F. Bellini,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5018032283,R. Barbera,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5030469052,Anubha Mahajan,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5108058720,C. Álvarez,Universidad Autónoma de Chiapas,1,147,0.0,42
+https://openalex.org/A5076182622,Zamara Navarro-Gutiérrez,"Universidad Autónoma de Zacatecas ""Francisco García Salinas""",1,172,0.0,10
+https://openalex.org/A5074936184,Daniel Sánchez-Lázaro,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,592,0.0,13
+https://openalex.org/A5015191967,Lucía Cuevas‐Nasú,Instituto Nacional de Salud Pública,3,468,0.0,4
+https://openalex.org/A5026517227,Rodrigo Cervantes‐Díaz,Universidad Nacional Autónoma de México,2,455,0.0,10
+https://openalex.org/A5112605324,Miriam A. Knoll,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5091448186,R. Arceo,Universidad Autónoma de Chiapas,1,147,0.0,42
+https://openalex.org/A5004564906,S. Coutinõ de León,"National Institute of Astrophysics, Optics and Electronics",1,232,0.0,43
+https://openalex.org/A5031037291,William D. Tap,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5069847208,W. H. Lee,Universidad Nacional Autónoma de México,1,232,0.0,43
+https://openalex.org/A5110358702,Adolfo Correa,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5032814555,Karla María Tamez-Flores,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5000182215,David A. Velázquez-Ramírez,Universidad Nacional Autónoma de México,1,415,0.0,12
+https://openalex.org/A5004314505,Pablo Peña-Loredo,Universidad Nacional Autónoma de México,1,415,0.0,12
+https://openalex.org/A5076076101,Karen L. Smith,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5061749338,Xavier Soberón,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5040290360,Richard D. Gelber,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5087905184,Oscar Bañuelos Tavarez,Centro Internacional de Mejoramiento de Maíz Y Trigo,1,222,0.0,22
+https://openalex.org/A5045345947,Juan Ignacio Macías Quintero,Universidad de Ciencias y Artes de Chiapas,1,172,0.0,10
+https://openalex.org/A5063567043,Lizz Caulkins,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5032252442,Hatem A. Azim,Tecnológico de Monterrey,3,1082,0.0,38
+https://openalex.org/A5058638457,Jorge Barrios‐Payán,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,276,0.0,2
+https://openalex.org/A5004846711,Chikako Shimizu,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5021371191,Mishael Sánchez-Pérez,Universidad Nacional Autónoma de México,1,415,0.0,12
+https://openalex.org/A5024482335,Timothy D. Gilligan,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5055179535,Rosa E. Rodríguez-Martínez,Universidad Nacional Autónoma de México,3,861,0.0,3
+https://openalex.org/A5113977323,F. Antinori,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5037946457,Susanne Dreisigacker,Centro Internacional de Mejoramiento de Maíz Y Trigo,4,818,0.0,8
+https://openalex.org/A5037198503,Larissa A. Korde,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5059528569,Kate M. Scow,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5002536905,Juan A. Ascacio‐Valdés,Universidad Autónoma de Coahuila,3,847,0.0,1
+https://openalex.org/A5064031188,Ellen Warner,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5009857451,Humberto Garcia‐Ortíz,National Institute of Genomic Medicine,3,1015,0.0,17
+https://openalex.org/A5045358014,Cristóbal N. Aguilar,Universidad Autónoma de Coahuila,9,1884,0.0,1
+https://openalex.org/A5079123484,Joaquı́n Arroyo-Cabrales,National Institute of Anthropology and History,3,741,0.0,10
+https://openalex.org/A5100635887,M. Castillo,Universidad Nacional Autónoma de México,3,718,0.0,42
+https://openalex.org/A5056099281,Philomin Juliana,Centro Internacional de Mejoramiento de Maíz Y Trigo,3,1394,0.0,8
+https://openalex.org/A5059688600,Karla Sandoval,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,4,640,0.0,1
+https://openalex.org/A5026722432,José Pedraza-Chaverrı́,Universidad Nacional Autónoma de México,3,620,0.0,0
+https://openalex.org/A5112650278,Samuel M. Niman,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5002170706,Nathan A. Pennell,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5100351254,Jeong Eun Lee,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5050653783,Roswitha Kammler,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5039694693,Ann H. Partridge,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5007834910,Sarra El-Abed,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5082644230,Ching‐Ti Liu,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5011791725,Sandra Romero‐Ramírez,Universidad Nacional Autónoma de México,2,455,0.0,10
+https://openalex.org/A5027287190,Eric Ochoa‐Hein,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5010037898,C. Solı́s,Universidad Nacional Autónoma de México,1,172,0.0,10
+https://openalex.org/A5021122880,Judith R. Kroep,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5003496918,Lucretia A. Sherrod,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5045206110,Shannon L. Osborne,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5020223699,Daniel J. George,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5087724292,Cecilia Contreras-Cubas,National Institute of Genomic Medicine,2,810,0.0,17
+https://openalex.org/A5012965788,William Dale,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5075103191,Linda Liliana Muñóz-Hernández,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,592,0.0,13
+https://openalex.org/A5020218652,Jair Santiago García-Sotelo,Universidad Nacional Autónoma de México,1,415,0.0,12
+https://openalex.org/A5003362277,Eunice Romero,Universidad Nacional Autónoma de México,1,172,0.0,16
+https://openalex.org/A5008013012,Luis Felipe Arreola Villa,Universidad Nacional Autónoma de México,2,348,0.0,12
+https://openalex.org/A5021036251,María Rodríguez‐Ceja,Universidad Nacional Autónoma de México,1,172,0.0,10
+https://openalex.org/A5111908438,Susan M. Chang,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5026565466,Alberto Santos-Zavaleta,Universidad Nacional Autónoma de México,2,643,0.0,12
+https://openalex.org/A5057687490,Brigitta I. van Tussenbroek,Universidad Nacional Autónoma de México,4,994,0.0,3
+https://openalex.org/A5033435311,Juan Burgueño,Centro Internacional de Mejoramiento de Maíz Y Trigo,2,597,0.0,2
+https://openalex.org/A5102854958,José Roberto Ángeles Camacho,Universidad Nacional Autónoma de México,1,232,0.0,43
+https://openalex.org/A5022673539,Andrew E. Suyker,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5070351685,Olivia Pagani,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5107923201,R. Bailhache,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5009808442,Nancy R. Mejía‐Domínguez,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,594,0.0,10
+https://openalex.org/A5036969068,Mervin St. Luce,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5017709484,Monica M. Bertagnolli,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5015113096,José Luis Maravillas‐Montero,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,2,594,0.0,10
+https://openalex.org/A5113885817,K. P. Arunbabu,Universidad Nacional Autónoma de México,1,232,0.0,43
+https://openalex.org/A5108111873,S. Coutiño de León,"National Institute of Astrophysics, Optics and Electronics",1,147,0.0,42
+https://openalex.org/A5100763587,Neeraj Agarwal,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5105180298,R. Alfaro Molina,Universidad Nacional Autónoma de México,2,266,0.0,16
+https://openalex.org/A5007007404,Fedro A. Peccatori,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5061976008,Kraig L. Roozeboom,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5027588164,KERRI WACHTER,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5014972181,Junko Takei,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5027170448,Jeffrey A. Meyerhardt,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5091086026,Michael S. Sabel,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5045301167,Manuel Ruíz‐Borrego,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5013330315,J. K. Barrera-Ballesteros,Universidad Nacional Autónoma de México,3,1689,0.0,3
+https://openalex.org/A5054231540,José Víctor Jiménez,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5089863056,Colm O’Dushlaine,Mexican Social Security Institute,1,336,0.0,17
+https://openalex.org/A5002821639,Bruce M. Psaty,National Institute of Genomic Medicine,1,336,0.0,17
+https://openalex.org/A5086054339,Janice M. Walshe,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5077627222,William H. Lee,Universidad Nacional Autónoma de México,2,369,0.0,42
+https://openalex.org/A5018513306,M. Revilla,Mexican Social Security Institute,1,336,0.0,17
+https://openalex.org/A5075641669,Amy L. Shober,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5022043678,Manuel Mora Gutiérrez,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5007123949,J. A. Morales-Soto,Universidad Michoacana de San Nicolás de Hidalgo,1,232,0.0,43
+https://openalex.org/A5016700461,Simona Borštnar,Tecnológico de Monterrey,1,208,0.0,38
+https://openalex.org/A5112403211,M. Ball,Universidad Nacional Autónoma de México,1,135,0.0,16
+https://openalex.org/A5033911261,Sı́món Barquera,Instituto Nacional de Salud Pública,8,1440,0.0,4
+https://openalex.org/A5074235648,David Kershenobich,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5042874867,E. G. Pérez‐Pérez,Universidad Politécnica de Pachuca,1,147,0.0,42
+https://openalex.org/A5082951649,Jane Meisel,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5043554307,Robert G. Uzzo,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5086154618,Carlos-Francisco Méndez-Cruz,Universidad Nacional Autónoma de México,1,415,0.0,12
+https://openalex.org/A5048736684,José Luis Cárdenas-Fragoso,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5087794529,Nagamani Balagurusamy,Universidad Autónoma de Coahuila,3,934,0.0,0
+https://openalex.org/A5026269100,Shannon N. Westin,Sanofi (Mexico),1,165,0.0,25
+https://openalex.org/A5013217529,R. Torres-Escobedo,Universidad de Guadalajara,1,232,0.0,43
+https://openalex.org/A5031331788,Mark S. Reiter,Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias,1,222,0.0,22
+https://openalex.org/A5089666473,Thierry Hernández‐Gilsoul,Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,1,151,0.0,17
+https://openalex.org/A5070433412,I. Rivera,National Institute of Anthropology and History,1,172,0.0,10
+https://openalex.org/A5022926135,A. González-Muñoz,Universidad de Guadalajara,1,147,0.0,42
+https://openalex.org/A5066843863,Francisco Barajas‐Olmos,National Institute of Genomic Medicine,2,810,0.0,17
