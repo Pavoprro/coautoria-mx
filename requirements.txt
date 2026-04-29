@@ -1,4 +1,4 @@
-mercury
+mercury==2.3.7
 networkx
 plotly
 pandas
