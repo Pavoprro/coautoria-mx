@@ -1,6 +1,15 @@
 import os
 from subprocess import Popen
 
-command = ["mercury", "run", f"0.0.0.0:{os.environ.get('PORT', 7860)}"]
+port = os.environ.get('PORT', 7860)
+
+command = [
+    "mercury",
+    f"--ip=0.0.0.0",
+    f"--port={port}",
+    "--no-browser",
+    "--allow-root"
+]
+
 worker = Popen(command)
 worker.wait()
