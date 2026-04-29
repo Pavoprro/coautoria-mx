@@ -1,12 +1,14 @@
 ---
-title: Coautoria Mx
-emoji: 🏃
-colorFrom: purple
-colorTo: indigo
-sdk: docker
+title: Coautoria MX
+emoji: 🔬
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 4.0.0
+app_file: app.py
 pinned: false
-license: mit
-short_description: Redes de coautoría científica en México.
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# ¿Quién mueve los hilos de la ciencia mexicana?
+
+Redes de coautoría científica en México 2018–2024.
