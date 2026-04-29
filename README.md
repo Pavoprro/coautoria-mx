@@ -14,7 +14,7 @@ pinned: false
 
 Proyecto final — Visualización gráfica para IA · Dra. Dora Alvarado · Universidad Iberoamericana León
 
-**Autor:** Pablo Villanueva — 194533-3
+**Autor:** Juan Pablo Escalera Boites — 194533-3
 
 **Sitio en vivo:** [https://coautoria-mx.onrender.com](https://coautoria-mx.onrender.com)
 
@@ -41,7 +41,7 @@ La aplicación web presenta 5 visualizaciones interactivas desplegadas con Mercu
 | **Fuente** | [OpenAlex API](https://openalex.org/) |
 | **URL base** | `https://api.openalex.org/works` |
 | **Licencia** | CC0 — dominio público |
-| **Fecha de descarga** | Registrada en `data/raw/metadata.json` |
+| **Fecha de descarga** | Registrada en `data/raw/metadata.json_2026-04-28T17:06:44.783752`|
 | **Filtros** | País: MX, Años: 2018–2024, Tipo: article |
 | **Volumen** | ~2,000 artículos → 3,671 autores → 10,636 pares de coautores |
 
@@ -75,7 +75,7 @@ coautoria-mx/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/coautoria-mx.git
+git clone https://github.com/Pavoprro/coautoria-mx.git
 cd coautoria-mx
 
 # 2. Instalar dependencias

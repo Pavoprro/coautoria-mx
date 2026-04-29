@@ -1,0 +1,13 @@
+{
+  "fuente": "OpenAlex API",
+  "url_base": "https://api.openalex.org/works",
+  "licencia": "CC0 — dominio público (https://creativecommons.org/publicdomain/zero/1.0/)",
+  "fecha_descarga": "2026-04-28T17:06:44.783752",
+  "filtros": {
+    "pais": "MX",
+    "anio_inicio": 2018,
+    "anio_fin": 2024,
+    "tipo": "article"
+  },
+  "total_registros_crudos": 2000
+}
