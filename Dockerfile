@@ -10,7 +10,11 @@ COPY . .
  
 RUN mkdir -p data/clean && python precompute.py
  
+# Copiar config de Jupyter al lugar donde Mercury la lee
+RUN mkdir -p /root/.jupyter
+COPY jupyter_server_config.py /root/.jupyter/jupyter_server_config.py
+ 
 EXPOSE 8888
  
-CMD ["mercury", "--ip=0.0.0.0", "--no-browser", "--allow-root"]
-
+CMD ["mercury"]
+ 
